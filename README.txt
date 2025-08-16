@@ -1,5 +1,7 @@
 SSD Lab 2 Execution Steps
 
+Git Link : https://github.com/logicthread/ssd_lab_sql_activity.git
+
 1. Create Schema ssd_tut
 2. Create required tables as defined at the end of this file 	1. ssd_tut.Shows 	2. ssd_tut.Subscribers 	3. ssd_tut.WatchHistory
 3. Insert data into the tables
